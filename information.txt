@@ -1,0 +1,12 @@
+Fonts:
+Euclid-Circular-B
+Publica-Play
+
+Components:
+- Header
+- Calculate Platform
+- Footer
+
+
+
+
